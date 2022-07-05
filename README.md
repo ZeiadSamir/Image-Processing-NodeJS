@@ -15,7 +15,7 @@ Run => npm run test
 ## Avoid issues
 
 * UPDATE
- : if you face any err "'ts-node' is not recognized as an internal or external command, operable program or batch file."
+ : if you face any err <ul>"'ts-node' is not recognized as an internal or external command, operable program or batch file."</ul>
   then you have to install ts-node globally >> in terminal >> npm install -g ts-node.
 
 
