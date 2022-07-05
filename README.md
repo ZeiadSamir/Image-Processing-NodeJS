@@ -56,4 +56,5 @@ This app is also handle caching, you can't resize the same image with the same w
 ![Screenshot 2022-07-05 084558](https://user-images.githubusercontent.com/59052288/177266369-c6813d86-424c-456a-9ddf-77220e39c5a4.png)
 
 __________________________
-App development, testing, documentation by me.
+App development, testing, documentation by <a href="https://www.google.com/" target="_blank">Google</a>
+
