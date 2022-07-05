@@ -42,6 +42,7 @@ This app was developed to make it easy to resize an image from the default "widt
 ### Preview
 
 
+![Screenshot 2022-07-05 082958](https://user-images.githubusercontent.com/59052288/177264329-cdba4431-aeb4-450b-bc77-ff14689a20b4.jpg)
 
 
 
